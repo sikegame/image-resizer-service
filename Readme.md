@@ -14,7 +14,7 @@ After deploying the application, you are strongly recommended to deploy a CDN di
 
 ### 0.1.5
 
-- Upgrade to Node 20.x runtime
+- Upgrade to Node 18.x runtime
 
 
 ### 0.1.4
